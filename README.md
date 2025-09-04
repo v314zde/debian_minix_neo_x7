@@ -18,6 +18,7 @@ Debian auf minix NEO X7
 
 ## Quellen
 ### Informationen
+- **Armbian Forum** https://forum.armbian.com/topic/14232-single-armbian-image-for-rk-aml-aw-armhf-armv7
 - **Übertaktung** https://github.com/c0d3z3r0/radxarock-firmware
 
 
