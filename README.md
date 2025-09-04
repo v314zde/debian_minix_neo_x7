@@ -10,10 +10,10 @@ Debian auf minix NEO X7
   <img src="assets/images/MB2.JPG" width="200"/>
 </div>
 
--- CPU: RK3188
--- RAM: H5TQ4G63CFR 2GB (4 x 512MB)
--- Flash Speicher: 29F64G08CBABB 16GB (2 x 8GB)
--- WiFi: AP6330
+- CPU: RK3188
+- RAM: H5TQ4G63CFR 2GB (4 x 512MB)
+- Flash Speicher: 29F64G08CBABB 16GB (2 x 8GB)
+- WiFi: AP6330
 
 
 ## Quellen
