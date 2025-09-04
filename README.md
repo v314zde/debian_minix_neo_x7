@@ -17,9 +17,13 @@ Debian auf minix NEO X7
 
 
 ## Quellen
+### Informationen
+- **Übertaktung** https://github.com/c0d3z3r0/radxarock-firmware
 
-### Anleitungen
 
 ### Downloads / Repositories
-  - **Bootloader:** https://github.com/neo-technologies/rockchip-bootloader/
+- **Armbian:** https://github.com/armbian/linux-rockchip
+- **Bootloader:** https://github.com/neo-technologies/rockchip-bootloader/
+- **Barebox:** https://www.barebox.org/doc/latest/boards/rockchip.html
+
     
