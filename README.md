@@ -2,10 +2,12 @@
 Debian auf minix NEO X7
 
 ## technische Daten
-
+![Mainboard](assets/images/MB1.JPG)
+![Moinboard](assets/images/MB2.JPG)
 
 
 ## Quellen
+
 ### Anleitungen
 
 ### Downloads / Repositories
