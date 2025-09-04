@@ -4,4 +4,7 @@ Debian auf minix NEO X7
 ## Quellen
 ### Anleitungen
 
-### Repositories
+### Downloads / Repositories
+  **Bootloader**
+  https://github.com/neo-technologies/rockchip-bootloader/
+    
